@@ -1,7 +1,7 @@
 def main():
     #write your code below this line
     num1 = int(input('Give the first number:'))
-    num2 = int(input('Give the second number:))
+    num2 = int(input('Give the second number:'))
                      
     print(num1 + ' + ' + num2 + ' = ' + str(num1 + num2))
 
